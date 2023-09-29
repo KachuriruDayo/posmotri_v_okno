@@ -220,7 +220,7 @@ input[type="checkbox"]:checked + span {
   width: 399px;
   height: 298px;
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: auto;
   gap: 30px;
 }
 
