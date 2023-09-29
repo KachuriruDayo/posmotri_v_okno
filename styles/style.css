@@ -12,7 +12,7 @@ html {
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
-  padding: 133px 30px;
+  padding: 133px 30px 0px ;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
@@ -58,6 +58,7 @@ ol {
 .result {
   display: flex;
   flex-direction: column;
+  width: 711px;
   gap: 16px;
 }
 
