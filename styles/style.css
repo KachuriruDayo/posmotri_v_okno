@@ -75,6 +75,13 @@ ol {
   object-fit: cover;
 }
 
+.search-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 30px;
+}
+
 .search-form__label {
   display: flex;
   justify-content: flex-start;
@@ -144,13 +151,6 @@ input[type="checkbox"]:checked + span {
   outline-offset: 2px;
   background-color: #fff;
   cursor: pointer;
-}
-
-.search-form {
-  display: flex;
-  justify-content: space-between;
-  align-items: end;
-  gap: 30px;
 }
 
 .search-form__fieldset {
