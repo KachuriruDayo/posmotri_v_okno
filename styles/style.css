@@ -279,7 +279,7 @@ input[type="checkbox"]:checked + span {
 }
 
 .more-button {
-  margin: 1px;
+  margin: 3px;
   width: 399px;
   height: 34px;
 }
