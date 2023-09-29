@@ -91,7 +91,7 @@ ol {
 
 .search-form__label-text {
   color: #FFF;
-  font-family: 'Fira Sans', 'Condensed';
+  font-family: 'Fira Sans Condensed';
   font-size: 18px;
   font-weight: 400;
   margin-bottom: -2px;
@@ -103,7 +103,7 @@ ol {
   border-bottom: 1px solid #fff;
   width: fit-content;
   color: rgba(255, 255, 255, 0.70);
-  font-family: 'Fira Sans', 'Condensed';
+  font-family: 'Fira Sans Condensed';
   font-size: 18px;
   font-weight: 400;
   background-color: transparent;
@@ -165,7 +165,7 @@ input[type="checkbox"]:checked + span {
   border: 1px solid #FFF;
   color: #FFF;
   text-align: center;
-  font-family: 'Fira Sans', 'Condensed';
+  font-family: 'Fira Sans Condensed';
   font-size: 18px;
   font-weight: 700;
   cursor: pointer;
@@ -261,7 +261,7 @@ input[type="checkbox"]:checked + span {
 
 .content__video-card-descriptio { 
   color: #FFF;
-  font-family: 'Fira Sans', 'Condensed';
+  font-family: 'Fira Sans Condensed';
   font-size: 18px;
   font-weight: 400;
   line-height: 16.2px;
