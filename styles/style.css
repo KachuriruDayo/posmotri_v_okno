@@ -143,13 +143,11 @@ ol {
 
 .search-form__checkbox-list {
   display: flex;
-  gap: 15px;
-  vertical-align: middle;
+  gap: 16px;
 }
 
 .search-form__pseudo-checkbox {
   display: inline-block;
-  position: relative;
   inline-size: 19px;
   block-size: 19px;
   outline: 1px solid #fff;
@@ -160,7 +158,7 @@ ol {
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::before {
   content: "";
   display: inline-block;
-  position: absolute;
+  position: relative;
   inset: 1px;
   inline-size: 17px;
   block-size: 17px;
