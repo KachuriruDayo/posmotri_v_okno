@@ -87,7 +87,7 @@ ol {
 .search-form__label {
   display: flex;
   align-items: center;
-  gap: 4px;
+  gap: 5px;
 }
 
 .search-form__label:hover .search-form__label-text {
@@ -158,9 +158,10 @@ ol {
   content: "";
   display: inline-block;
   position: relative;
-  inset: 1px;
-  inline-size: 17px;
-  block-size: 17px;
+  top: 1px;
+  left: 1px;
+  inline-size: 16px;
+  block-size: 16px;
   background-color: #fff;
   cursor: pointer;
 }
