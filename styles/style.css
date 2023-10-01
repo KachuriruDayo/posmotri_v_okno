@@ -104,7 +104,7 @@ ol {
   font-family: "Fira Sans Condensed", "Arial", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  margin-bottom: -2px;
+  margin-block-end: -2px;
 }
 
 .search-form__textfield {
