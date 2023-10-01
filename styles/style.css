@@ -80,15 +80,14 @@ ol {
 
 .search-form {
   display: flex;
-  justify-content: space-between;
   align-items: end;
-  gap: 30px;
+  gap: 40px;
 }
 
 .search-form__label {
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 4px;
 }
 
 .search-form__label:hover .search-form__label-text {
@@ -136,13 +135,13 @@ ol {
 }
 
 .search-form__textfield:active {
-  outline: none;
   border-left: 1px solid #fff;
   border-right: 1px solid #fff;
 }
 
 .search-form__checkbox-list {
   display: flex;
+  margin-block-end: 6px;
   gap: 16px;
 }
 
@@ -305,7 +304,7 @@ ol {
   font-family: "Fira Sans Condensed", "Arial", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  line-height: 16.2px;
+  line-height: 0.90;
 }
 
 .content__video-card-thumbnail {
